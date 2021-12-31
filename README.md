@@ -11,7 +11,7 @@ Do visit their Documentation to explore more about the fun stuff going behind ;)
 # What's Here:-
 >[Python Source Code](https://github.com/siddhesh010/NASA-ASTEROID-API/blob/main/NASA-ASTEROID-FINDER.py)
 
->Executable file for windows is freely avaiable 
+>Executable file for windows is freely available 
 contact at siddhesh.vn@somaiya.edu
 
 # Prerequisite for running the python script
