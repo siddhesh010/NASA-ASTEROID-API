@@ -17,19 +17,19 @@ contact at siddhesh.vn@somaiya.edu
 # Prerequisite for running the python script
 
 > Script is based on Python 3.9.7
->External Modules needed to be installed are:-
+External Modules needed to be installed are:- <br />
 --PyQt5  <br />
 --openpyxl <br />
 --requests <br />
 
 # Usage Guide
-> --Go to NASA's [site](https://api.nasa.gov/) to generate your own API KEY
->--Enter API in the top text box
->--Choose a start date and end date(NOT EXCEEDING 7 DAYS)
->--Enter a Filename of your choice(without any file extension)
->--Hit Get Data
->--See the Request status Box for path of the excel file saved or error messages if any
->(Note that only 1000 requests are allowed per hour for free useage of the API)
+> --Go to NASA's [site](https://api.nasa.gov/) to generate your own API KEY <br />
+--Enter API in the top text box <br />
+--Choose a start date and end date(NOT EXCEEDING 7 DAYS) <br />
+--Enter a Filename of your choice(without any file extension) <br />
+--Hit Get Data <br />
+--See the Request status Box for path of the excel file saved or error messages if any <br />
+(Note that only 1000 requests are allowed per hour for free useage of the API) <br />
 
  HAVE FUN WITH THIS FREE TOOL :) :)
  
