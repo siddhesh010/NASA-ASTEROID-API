@@ -18,9 +18,9 @@ contact at siddhesh.vn@somaiya.edu
 
 > Script is based on Python 3.9.7
 >External Modules needed to be installed are:-
->--PyQt5
->--openpyxl
->--requests
+--PyQt5  <br />
+--openpyxl <br />
+--requests <br />
 
 # Usage Guide
 > --Go to NASA's [site](https://api.nasa.gov/) to generate your own API KEY
